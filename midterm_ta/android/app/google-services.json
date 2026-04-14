@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049037203473",
+    "project_id": "strm-163ec",
+    "storage_bucket": "strm-163ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049037203473:android:4966026a10b281c3dc69b0",
+        "android_client_info": {
+          "package_name": "midterm.ta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYvCCbAObvx6_KU1rINnOEE6p8iGPo7MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
